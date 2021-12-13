@@ -1,4 +1,6 @@
-# Heart-Disease-Prediction
+# Heart-Failure-Prediction 
+Dataset contains 11 clinical features for predicting heart disease events.
+
 This project helps to predict whether the patient has Heart Disease or not. This prediction is made using the clinical data of patients.
 
 # Dataset Discription
